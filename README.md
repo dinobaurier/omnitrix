@@ -61,4 +61,4 @@ For the cables which go outside (Power and Speaker) of the main body. use as thi
 I drilled a hole in the bottom cover to get the cables out. Also used some Hotglue to fix the necessary length for the movement inside the case.
 Make sure to use some grease on the latch (Where it moves and on top) This makes opening and closing MUCH smoother. Depending on our print, you also have to sand a bit on the mechanism which holds the pop up part in order to make it smoother.
 
-I used ABS for all the 3D printed parts.
+I used ASA for all the 3D printed parts.
