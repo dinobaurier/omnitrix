@@ -1,4 +1,9 @@
-# Ben 10 inspired Omnitrix
+# Ben 10 inspired Omnitrix!
+
+
+![IMG_2867](https://user-images.githubusercontent.com/97173171/148772858-066aed3a-e2b9-4a57-9b20-fe17faca5406.jpeg)
+
+
 
 Using Pauls 3D things open smartwatch as a base, dfplayer mini for the sound, a lot of 3D printed parts and Eva Foam for the wrist.
 
