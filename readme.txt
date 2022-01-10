@@ -1,8 +1,10 @@
-https://youtu.be/jdq7B3sq1co
+# Ben 10 inspired Omnitrix
 
 Using Pauls 3D things open smartwatch as a base, dfplayer mini for the sound, a lot of 3D printed parts and Eva Foam for the wrist.
 
-Warning - this project is as far away from print in place as it gets. When it comes to the electronics, you should know what you do. No warranty from my side.
+See in action: https://youtu.be/jdq7B3sq1co
+
+## Warning - this project is as far away from print in place as it gets. When it comes to the electronics, you should know what you do. No warranty from my side.
 
 Files on Github
 https://github.com/dinobaurier/omnitrix
